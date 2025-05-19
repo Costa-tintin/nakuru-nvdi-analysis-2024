@@ -1,7 +1,6 @@
 # nakuru-nvdi-analysis-2024
 NDVI-based crop stress analysis for Nakuru Region, Kenya
 Nakuru Region Crop Stress Analysis Using NDVI
-Show Image
 
 Project Overview
 This repository contains a comprehensive analysis of crop health and stress in the Nakuru region of Kenya using Normalized Difference Vegetation Index (NDVI). The analysis utilizes Sentinel-2 satellite imagery processed through Google Earth Engine (GEE) and QGIS to identify areas of crop stress and healthy vegetation.
@@ -48,7 +47,6 @@ NDVI Distribution Map
 Show Image
 
 Stress Level Distribution
-Show Image
 
 Agricultural Implications
 The analysis reveals concerning patterns of crop stress that could impact agricultural productivity:
@@ -80,7 +78,7 @@ Basic knowledge of remote sensing concepts
 Reproducing the Analysis
 Clone this repository
 bash
-git clone https://github.com/yourusername/nakuru-ndvi-analysis-2024.git
+git clone https://github.com/Costa-tintin/nakuru-ndvi-analysis-2024.git
 cd nakuru-ndvi-analysis-2024
 Run the GEE code
 Open Google Earth Engine Code Editor
@@ -98,7 +96,7 @@ Integration with weather data for correlation analysis
 Comparison with agricultural yield data
 Addition of other vegetation indices (EVI, SAVI, etc.)
 About the Author
-[Your Name] is a geospatial analyst specializing in agricultural remote sensing and precision farming applications. With expertise in satellite image processing, GIS analysis, and geofencing solutions, [Your Name] provides actionable insights for agricultural stakeholders.
+Constantine is a geospatial analyst specializing in agricultural remote sensing and precision farming applications. With expertise in satellite image processing, GIS analysis, and geofencing solutions, Constantine provides actionable insights for agricultural stakeholders.
 
 Contact & Services
 For inquiries about:
