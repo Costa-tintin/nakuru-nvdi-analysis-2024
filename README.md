@@ -44,7 +44,7 @@ Green (0.6-1.0): Healthy vegetation
 Spatial Analysis: Pattern identification and quantification using QGIS
 Key Visualizations
 NDVI Distribution Map
-Show Image
+
 
 Stress Level Distribution
 
@@ -105,7 +105,7 @@ Custom agricultural monitoring systems
 Geofencing solutions for farm management
 Remote sensing analysis for crop assessment
 Training in GEE and QGIS for agricultural applications
-Contact: your.email@example.com
+Contact: costamutinda23@gmail.com
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -116,4 +116,5 @@ Google Earth Engine for cloud computing resources
 QGIS Development Team for the open-source GIS software
 Nakuru County Agricultural Office for regional information
 Last updated: May 19, 2025
+
 
