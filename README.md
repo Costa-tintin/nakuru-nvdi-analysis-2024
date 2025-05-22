@@ -78,7 +78,7 @@ Basic knowledge of remote sensing concepts
 Reproducing the Analysis
 Clone this repository
 bash
-git clone https://github.com/Costa-tintin/nakuru-ndvi-analysis-2024
+git clones https://github.com/Costa-tintin/nakuru-nvdi-analysis-2024
 cd nakuru-ndvi-analysis-2024
 Run the GEE code
 Open Google Earth Engine Code Editor
