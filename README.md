@@ -44,7 +44,7 @@ Green (0.6-1.0): Healthy vegetation
 Spatial Analysis: Pattern identification and quantification using QGIS
 Key Visualizations
 NDVI Distribution Map
-
+![NDVI Map of Nakuru Region](docs/images/NDVDI-Based Crop Stress Analysis-Nakuru.png)
 
 Stress Level Distribution
 
